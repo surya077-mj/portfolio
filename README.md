@@ -13,36 +13,6 @@ Welcome to the personal portfolio website of **Surya Vikas** — a passionate de
 - **Styling:** Tailwind CSS / Bootstrap / Custom CSS (specify what you use)
 - **Deployment:** Netlify
 
----
-
-## 📁 Folder Structure
-
-portfolio/
-├── public/
-├── src/
-│ ├── components/
-│ ├── pages/
-│ └── ...
-├── .gitignore
-├── package.json
-└── README.md
-
-yaml
-Copy
-Edit
-
----
-
-## 📸 Features
-
-- 🌐 Responsive design for all screen sizes
-- 💡 Dynamic content sections (About, Skills, Projects, Contact)
-- ⚡ Smooth scroll and animations
-- 📄 Resume download button
-- 🔗 Social links with icons
-
----
-
 ## 🛠️ Installation & Development
 
 ```bash
@@ -62,30 +32,9 @@ bash
 Copy
 Edit
 npm run build
-📬 Contact
-Feel free to connect!
-
-📧 Email: [your-email@example.com]
-
-💼 LinkedIn: linkedin.com/in/surya077-mj
-
-🌐 Portfolio: surya-vikas.netlify.app
-
-📝 License
-This project is licensed under the MIT License.
-
-yaml
-Copy
-Edit
 
 ---
 
-### ✅ To Add This:
-
-1. Create a file in your project root: `README.md`
-2. Paste the above content
-3. Customize details (email, tech stack, etc.)
-4. Then push to GitHub:
 
 ```bash
 git add README.md
